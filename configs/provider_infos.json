@@ -1,0 +1,27 @@
+{
+  "alibaba-cn": {
+    "qwen3-max": {
+      "input_token_price": 6.0e-6,
+      "output_token_price": 24.0e-6,
+      "tpm": 1000000,
+      "rpm": 600
+    },
+    "qwen-flash": {
+      "input_token_price": 0.15e-6,
+      "output_token_price": 1.5e-6,
+      "tpm": 10000000,
+      "rpm": 15000
+    }
+  },
+  "kimi":{
+    "kimi-k2-0905-preview": {
+      "input_token_price": 4.0e-6,
+      "output_token_price": 16.0e-6,
+      "tpm": 3000000,
+      "rpm": 500
+    },
+    "web_search": {
+      "fixed_price": 0.03
+    }
+  }
+}

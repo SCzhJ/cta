@@ -10,3 +10,4 @@ eval_data/
 .env
 .ruff_cache/
 logs/token_usage/detailed_usage/
+logs/outputs/

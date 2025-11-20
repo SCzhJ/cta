@@ -6,7 +6,6 @@ for parent in [Path.cwd(), *Path.cwd().parents]:
         break
 if project_root is None:
     raise FileNotFoundError("pyproject.toml 未找到，无法确定项目根目录")
-
 import sys
 if str(project_root) not in sys.path:
     sys.path.append(str(project_root))

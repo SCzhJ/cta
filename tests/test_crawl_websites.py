@@ -17,32 +17,24 @@ project_root = get_project_root()
 logger.info(f"Project root: {project_root}")
 sys.path.append(str(project_root))
 
-# @pytest.mark.asyncio
-# async def test_website_crawler():
-#     with open(project_root / "configs" / "search_websites.json", "r", encoding="utf-8") as f:
-#         websites = json.load(f)
-#     bitcoin_news_websites = list(websites["bitcoin news"]) 
-#     websites_dicts = []
-#     for site in bitcoin_news_websites:
-#         websites_dicts.append({
-#             'url': site,
-#             'crawl_config': CrawlerRunConfig(
-#                 verbose=True,
-#                 wait_for='body'
-#             )
-#         })
-#     logger.info(f"Bitcoin news websites: {bitcoin_news_websites}")
-#     save_path = project_root / "logs" / "news"
-#     results = await crawl_websites_and_save(websites_dicts, save_path)
-
 @pytest.mark.asyncio
-async def test_crawl_specific_site():
-    url = "https://www.theblock.co/data/on-chain-metrics/bitcoin"
-    crawl_config = CrawlerRunConfig(
-        verbose=True,
-        wait_for='body'
-    )
-    results = await crawl_websites_and_save([{'url': url, 'crawl_config': crawl_config}], project_root / "logs" / "news")
+async def test_website_crawler():
+    with open(project_root / "configs" / "search_websites.json", "r", encoding="utf-8") as f:
+        websites = json.load(f)
+    bitcoin_news_websites = list(websites["bitcoin news"]) 
+    logger.info(f"Bitcoin news websites: {bitcoin_news_websites}")
+    save_path = project_root / "logs" / "news"
+    results = await crawl_websites_and_save(website_urls=bitcoin_news_websites, 
+                                            save_path=save_path)
+
+# @pytest.mark.asyncio
+# async def test_crawl_specific_site():
+#     url = "https://www.theblock.co/data/on-chain-metrics/bitcoin"
+#     crawl_config = CrawlerRunConfig(
+#         verbose=True,
+#         wait_for='body'
+#     )
+#     results = await crawl_websites_and_save([{'url': url, 'crawl_config': crawl_config}], project_root / "logs" / "news")
 
 # @pytest.mark.asyncio
 # async def test_website_redirect_crawl():

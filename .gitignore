@@ -11,3 +11,4 @@ eval_data/
 .ruff_cache/
 logs/token_usage/detailed_usage/
 logs/outputs/
+*cache/

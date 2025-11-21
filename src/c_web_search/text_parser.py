@@ -14,6 +14,8 @@ def extract_between(
     content: str, 
     pattern_before: str | Pattern, 
     pattern_after: str | Pattern,
+    min_parse_lines: int=0,
+    min_length: int=0,
     inclusive: bool=False,
     allow_after_pattern_not_found: bool=False
 ) -> str:
@@ -46,7 +48,35 @@ def extract_between(
     
     # 从起始模式之后搜索结束模式
     start_pos = before_match.end()
-    after_match = after_regex.search(content, start_pos)
+    max_start_pos = start_pos
+    omit_endpos = False
+    if min_parse_lines > 0:
+        # 计算需要跳过的行数
+        lines_to_skip = min_parse_lines - 1
+        # 跳过指定行数后的位置
+        for _ in range(lines_to_skip):
+            start_pos = content.find("\n", start_pos) + 1
+            if start_pos <= 0:
+                omit_endpos = True
+        if max_start_pos < start_pos:
+            max_start_pos = start_pos
+    if min_length > 0:
+        # 检查剩余内容是否足够长
+        if len(content) - start_pos < min_length:
+            omit_endpos = True
+        else:
+            start_pos = before_match.end() + min_length
+        if max_start_pos < start_pos:
+            max_start_pos = start_pos
+    
+    # 处理最小值未满足的情况
+    if omit_endpos:
+        if inclusive:
+            return content[before_match.start():]
+        else:
+            return content[before_match.end():]
+
+    after_match = after_regex.search(content, max_start_pos)
     if not after_match:
         if allow_after_pattern_not_found:
             return content[before_match.start():]
@@ -57,4 +87,9 @@ def extract_between(
     if inclusive:
         return content[before_match.start():end_pos]
     else:
-        return content[start_pos:end_pos]
+        return content[before_match.end():end_pos]
+
+def remove_url(content: str) -> str:
+    """移除字符串中的URL"""
+    url_pattern = re.compile(r'\(https?://\S+|www\.\S+\)')
+    return url_pattern.sub('', content)

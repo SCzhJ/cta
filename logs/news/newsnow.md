@@ -16,26 +16,26 @@ Sign in
 
   * [ Bitcoin ](https://www.newsnow.com/au/Business/Cryptocurrencies/Bitcoin)
   * [ Cryptocurrencies ](https://www.newsnow.com/au/Business/Cryptocurrencies)
+  * [ Ethereum (ETH) ](https://www.newsnow.com/au/Business/Cryptocurrencies/Ethereum+%28ETH%29)
+  * [ BlackRock ](https://www.newsnow.com/au/Business/Banking/Investment+Banks/BlackRock)
   * [ XRP ](https://www.newsnow.com/au/Business/Cryptocurrencies/XRP)
   * [ Ripple ](https://www.newsnow.com/au/Business/Cryptocurrencies/Ripple)
-  * [ Ethereum (ETH) ](https://www.newsnow.com/au/Business/Cryptocurrencies/Ethereum+%28ETH%29)
   * [ Cardano (ADA) ](https://www.newsnow.com/au/Business/Cryptocurrencies/Cardano+%28ADA%29)
   * [ Solana (SOL) ](https://www.newsnow.com/au/Business/Cryptocurrencies/Solana+%28SOL%29)
   * [ Shiba Inu (SHIB) ](https://www.newsnow.com/au/Business/Cryptocurrencies/Shiba+Inu+%28SHIB%29)
   * [ Dogecoin (DOGE) ](https://www.newsnow.com/au/Business/Cryptocurrencies/Dogecoin+%28DOGE%29)
-  * [ Blockchain ](https://www.newsnow.com/au/Business/Cryptocurrencies/Blockchain)
-  * [ Kraken ](https://www.newsnow.com/au/Business/Cryptocurrencies/Kraken)
-  * [ VeChain ](https://www.newsnow.com/au/Business/Cryptocurrencies/VeChain)
   * [ Stellar (XLM) ](https://www.newsnow.com/au/Business/Cryptocurrencies/Stellar+%28XLM%29)
   * [ Chainlink (LINK) ](https://www.newsnow.com/au/Business/Cryptocurrencies/Chainlink+%28LINK%29)
-  * [ Stablecoins ](https://www.newsnow.com/au/Business/Cryptocurrencies/Stablecoins)
-  * [ Binance Coin (BNB) ](https://www.newsnow.com/au/Business/Cryptocurrencies/Binance+Coin+%28BNB%29)
-  * [ Pepe Coin (PEPE) ](https://www.newsnow.com/au/Business/Cryptocurrencies/Pepe+Coin+%28PEPE%29)
+  * [ VeChain ](https://www.newsnow.com/au/Business/Cryptocurrencies/VeChain)
   * [ Zcash (ZEC) ](https://www.newsnow.com/au/Business/Cryptocurrencies/Zcash+%28ZEC%29)
-  * [ Polkadot (DOT) ](https://www.newsnow.com/au/Business/Cryptocurrencies/Polkadot+%28DOT%29)
   * [ MicroStrategy ](https://www.newsnow.com/au/Business/Cryptocurrencies/MicroStrategy)
+  * [ Binance ](https://www.newsnow.com/au/Business/Cryptocurrencies/Binance)
+  * [ Pepe Coin (PEPE) ](https://www.newsnow.com/au/Business/Cryptocurrencies/Pepe+Coin+%28PEPE%29)
+  * [ TRON (TRX) ](https://www.newsnow.com/au/Business/Cryptocurrencies/TRON+%28TRX%29)
   * [ Sui (SUI) ](https://www.newsnow.com/au/Business/Cryptocurrencies/Sui+%28SUI%29)
-  * [ DeFi ](https://www.newsnow.com/au/Business/Cryptocurrencies/DeFi)
+  * [ Polkadot (DOT) ](https://www.newsnow.com/au/Business/Cryptocurrencies/Polkadot+%28DOT%29)
+  * [ Blockchain ](https://www.newsnow.com/au/Business/Cryptocurrencies/Blockchain)
+  * [ Litecoin (LTC) ](https://www.newsnow.com/au/Business/Cryptocurrencies/Litecoin+%28LTC%29)
   * Topics Open topics menu
 
 
@@ -45,55 +45,53 @@ Share
 [ Top ](https://www.newsnow.com/au/Business/Cryptocurrencies/Bitcoin)[ Latest ](https://www.newsnow.com/au/Business/Cryptocurrencies/Bitcoin?type=ln)[ Popular ](https://www.newsnow.com/au/Business/Cryptocurrencies/Bitcoin?type=ts)
 Follow
 ![](https://www.newsnow.com/flags/large/AE.png)
-[Bitcoin faces $95,000 deadline: Top trader drops major BTC price outlook update](https://c.newsnow.com/A/1294703210?-31421:3877989119) U.Today  2h 
-U.Today  2h 
-![](https://www.newsnow.com/flags/large/BG.png)
-[BTC crash triggers spike in $1M Bitcoin whale buys: On-chain data](https://c.newsnow.com/A/1294710369?-31421:3877989119) CryptoPotato.com  1h 
-CryptoPotato.com  1h 
-![](https://www.newsnow.com/flags/large/UK.png)
-[Did Bitcoin just turn bullish with a 5% rebound? 2 Resistance levels say not yet](https://c.newsnow.com/A/1294682035?-31421:3877989119) BeInCrypto  6h 
-BeInCrypto  6h 
-Advertisement 
-![](https://www.newsnow.com/flags/large/IL.png)
-[Bitcoin is repeating macro setup that last preceded 120% explosion](https://c.newsnow.com/A/1294693623?-31421:3877989119) FX Empire  4h 
-FX Empire  4h 
-Advertisement 
-![](https://www.newsnow.com/flags/large/PL.png)
-[Four nations buy Bitcoin as a billion-dollar whale awakens: What happens next?](https://c.newsnow.com/A/1294677265?-31421:3877989119) Coinpaper  7h 
-Coinpaper  7h 
+[Is Michael Saylor’s Strategy in danger as Bitcoin collapses?](https://c.newsnow.com/A/1294847444?-31421:3877989119) crypto.news  2h 
+crypto.news  2h 
 ![](https://www.newsnow.com/flags/large/US.png)
-[Spot bitcoin ETFs return to positive flows, BTC recovers above $92,000](https://c.newsnow.com/A/1294696708?-31421:3877989119) The Block  3h 
-The Block  3h 
+[Why Is Bitcoin (BTC) Dropping — Will It Recover?](https://c.newsnow.com/A/1294853311?-31421:3877989119) TipRanks  1h 
+TipRanks  1h 
+![](https://www.newsnow.com/flags/large/BG.png)
+[Bitcoin’s crash to $82K liquidates Andrew Tate, the ‘Anti-CZ’ whale, and more: Details inside](https://c.newsnow.com/A/1294835771?-31421:3877989119) CryptoPotato.com  4h 
+CryptoPotato.com  4h 
+Advertisement 
+![](https://www.newsnow.com/flags/large/UK.png)
+[Bitcoin is officially oversold for the first time in 9 months: What this means for price](https://c.newsnow.com/A/1294816359?-31421:3877989119) BeInCrypto  8h 
+BeInCrypto  8h 
+Advertisement 
+![](https://www.newsnow.com/flags/large/AE.png)
+[Peter Brandt: U.S. should crash Bitcoin to liquidate Saylor and accumulate BTC](https://c.newsnow.com/A/1294820930?-31421:3877989119) U.Today  7h 
+U.Today  7h 
+![](https://www.newsnow.com/flags/large/UK.png)
+[Andrew Tate’s Bitcoin trade is liquidated in just 1 hour](https://c.newsnow.com/A/1294857958?-31421:3877989119) Finance in Bold  1h 
+Finance in Bold  1h 
 View more articles
 Advertisement 
 Advertisement 
 ## Latest
-In the last 10 minutes
-![](https://www.newsnow.com/flags/large/US.png)
-[MARA Holdings transfers 649 Bitcoin to FalconX and Coinbase Prime](https://c.newsnow.com/A/1294718340?-31421:3877989119) Crypto Briefing  12:41 
-In the last 15 minutes
-![](https://www.newsnow.com/flags/large/UK.png)
-[“Smart Trade”: Eric Trump Praises Dave Portnoy’s Strategic Acquisition Of Bitcoin, Ether, And XRP During Market Rout](https://c.newsnow.com/A/1294717879?-31421:3877989119) ZyCrypto  12:38 
-In the last half hour
-![](https://www.newsnow.com/flags/large/US.png)
-[Bitcoin ETF Flows Turn Positive, But Experts Warn of Defensive Shift](https://c.newsnow.com/A/1294717350?-31421:3877989119) Decrypt  12:33 
-In the last hour
-![](https://www.newsnow.com/flags/large/UK.png)
-[Cardano’s Hoskinson Says AI Will Absorb BTC Mining Infrastructure Within 3 Years](https://c.newsnow.com/A/1294715036?-31421:3877989119) ZyCrypto  12:17 
-![](https://www.newsnow.com/flags/large/US.png)
-[Bitcoin Core’s first public third-party audit finds no major vulnerabilities](https://c.newsnow.com/A/1294714871?-31421:3877989119) The Block  12:17 
-In the last 2 hours
-![](https://www.newsnow.com/flags/large/BG.png)
-[BTC Crash Triggers Spike in $1M Bitcoin Whale Buys: On-Chain Data](https://c.newsnow.com/A/1294710369?-31421:3877989119) CryptoPotato.com  11:41 
-![](https://www.newsnow.com/flags/large/PL.png)
-[Is Bitcoin Safe: What You Need to Know](https://c.newsnow.com/A/1294709543?-31421:3877989119) Coinpaper  11:36 
-![](https://www.newsnow.com/flags/large/UK.png)
-[Marathon Digital Accelerates Bitcoin Transfers While Mining Economics Worsen](https://c.newsnow.com/A/1294707154?-31421:3877989119) BeInCrypto  11:15 
+In the last 5 minutes
 ![](https://www.newsnow.com/flags/large/EE.png)
-[UAE triggers ‘gold replacement’ debate with $518mln Bitcoin move, now what?](https://c.newsnow.com/A/1294705735?-31421:3877989119) AMBCrypto  11:05 
-In the last 4 hours
-![](https://www.newsnow.com/flags/large/AE.png)
-[Bitcoin Faces $95,000 Deadline: Top Trader Drops Major BTC Price Outlook Update](https://c.newsnow.com/A/1294703210?-31421:3877989119) U.Today  10:43 
+[Smart Money Bearish on Bitcoin as Short-Term Holders Capitulate in Dip](https://c.newsnow.com/A/1294863490?-31421:3877989119) Coinotag  13:52 
+In the last 10 minutes
+![](https://www.newsnow.com/flags/large/UK.png)
+[Bitcoin Price Tumbles Below $85,000 As Expert Blames Dip On Capital Rotation Between OGs And TradFi](https://c.newsnow.com/A/1294862711?-31421:3877989119) ZyCrypto  13:45 
+In the last 15 minutes
+![](https://www.newsnow.com/flags/large/EE.png)
+[Bitcoin Panic Selling Below $85K: Smart Money Eyes Accumulation Opportunity](https://c.newsnow.com/A/1294862391?-31421:3877989119) Coinotag  13:42 
+![](https://www.newsnow.com/flags/large/UK.png)
+[Bitcoin price slides as investors shun risk](https://c.newsnow.com/A/1294862211?-31421:3877989119) ShareCast  13:40  Article paywall
+![](https://www.newsnow.com/flags/large/IN.png)
+[Will Bitcoin sink more or is upward move close? Amid investor caution, here's what experts say on crypto market outlook](https://c.newsnow.com/A/1294862031?-31421:3877989119) Mint  13:39 
+![](https://www.newsnow.com/flags/large/US.png)
+[Bitcoin Depot Announces Leadership Changes for 2026](https://c.newsnow.com/A/1294861932?-31421:3877989119) TipRanks  13:38 
+In the last half hour
+![](https://www.newsnow.com/flags/large/BG.png)
+[Bitcoin Price Analysis: Will BTC’s Brutal Sell-Off Stop After Drop Below $81K?](https://c.newsnow.com/A/1294860881?-31421:3877989119) CryptoPotato.com  13:29 
+![](https://www.newsnow.com/flags/large/IL.png)
+[Why is the Crypto Market Down Today? BTC At Risk of Dropping to $38K](https://c.newsnow.com/A/1294860815?-31421:3877989119) FX Empire  13:28 
+![](https://www.newsnow.com/flags/large/UK.png)
+[Tom Lee Projects Bullish Ether On Bitcoin’s Supercycle Amid Market Crash](https://c.newsnow.com/A/1294860409?-31421:3877989119) ZyCrypto  13:25 
+![](https://www.newsnow.com/flags/large/US.png)
+[Forbes Daily: Bitcoin Has Wiped Out Most Of Its Post-Election Gains](https://c.newsnow.com/A/1294860269?-31421:3877989119) Forbes  13:24 
 Advertisement 
 Advertisement 
 Advertisement 
@@ -109,6 +107,7 @@ Our NewsNow feed delivers real-time updates on Bitcoin's price movements, regula
 [ Home ](https://www.newsnow.com/au/)
 [ About Us ](https://www.newsnow.com/about/)
 [ Contact Us ](https://www.newsnow.com/contact/)
+[ Subscribe ](https://www.newsnow.com/subscribe)
 #### Our Sites
 [ NewsNow UK ](https://www.newsnow.co.uk/h/?utm_medium=link&utm_source=newsnow&utm_campaign=EditionCrosslink-UK&utm_content=Footer)
 [ NewsNow US ](https://www.newsnow.com/us/?utm_medium=link&utm_source=newsnow&utm_campaign=EditionCrosslink-US&utm_content=Footer)
@@ -125,6 +124,7 @@ Our NewsNow feed delivers real-time updates on Bitcoin's price movements, regula
 [ Privacy Policy ](https://www.newsnow.com/privacy-policy/)
 [ Cookie Policy ](https://www.newsnow.com/privacy/cookies/)
 [ Legal Notice ](https://www.newsnow.com/legal-notice/)
+[ Subscription Terms ](https://www.newsnow.com/subscription-terms/)
 [![NewsNow](https://www.newsnow.co.uk/images/nn-logo-inline.svg)](https://www.newsnow.com/)
 © Copyright 1997 - 2025 NewsNow Publishing Limited. All rights reserved. 
 Home My News Topics Refresh 
@@ -221,4 +221,4 @@ Home My News Topics Refresh
     * [ Satoshi Nakamoto ](https://www.newsnow.com/au/Business/Cryptocurrencies/Satoshi+Nakamoto) Satoshi Nakamoto 
 
 
-![](https://www.newsnow.com/ico/1.gif?2cfabeb6c1ebc18981e6077be2135751)
+![](https://www.newsnow.com/ico/1.gif?23a25284a606972ad0b63dab517a017c)

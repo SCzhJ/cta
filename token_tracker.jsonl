@@ -1,2 +1,0 @@
-{"event": "usage", "timestamp": "2025-11-10T12:05:23.972531", "provider": "openai", "model": "gpt-3.5-turbo", "input_tokens": 100, "output_tokens": 200, "cost_usd": 0.00035}
-{"event": "usage", "timestamp": "2025-11-10T12:05:59.485599", "provider": "openai", "model": "gpt-3.5-turbo", "input_tokens": 100, "output_tokens": 200, "cost_usd": 0.00035}

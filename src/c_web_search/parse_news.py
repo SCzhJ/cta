@@ -20,9 +20,29 @@ for parent in [Path.cwd(), *Path.cwd().parents]:
 if project_root is None:
     raise FileNotFoundError("pyproject.toml 未找到，无法确定项目根目录")
 import sys
-if str(project_root) not in sys.path:
-    sys.path.append(str(project_root))
+if str(project_root / 'src') not in sys.path:
+    sys.path.append(str(project_root / 'src'))
 from c_web_search.text_parser import extract_between
+
+'''
+to be added: news time calculation and save
+'''
+from datetime import datetime
+from datetime import timedelta
+import zoneinfo
+
+def newsnow_top_time_conversion(time_str: str, date_time_str: str = datetime.now(zoneinfo.ZoneInfo("US/Eastern")).strftime("%Y-%m-%d-%H-%M")) -> str:
+    try:
+        # Parse time string (e.g., "1h")
+        hours = int(time_str.replace('h', ''))
+        # Create datetime object with provided date or default to today
+        dt = datetime.strptime(date_time_str, "%Y-%m-%d-%H-%M")
+        # Subtract hours from datetime
+        dt -= timedelta(hours=hours)
+        # Return formatted datetime string
+        return dt.strftime("%Y-%m-%d %H:%M")
+    except Exception as e:
+        return ""
 
 def parse_newsnow_top(md_file_path: Path) -> list[dict[str, str]]:
     """
@@ -69,10 +89,12 @@ def parse_newsnow_top(md_file_path: Path) -> list[dict[str, str]]:
             # Avoid adding duplicate URLs (skip duplicate source lines)
             if not any(item['url'] == url for item in news_items):
                 news_items.append({
-                    'time': time_str,
+                    'time': newsnow_top_time_conversion(time_str),
                     'url': url,
                     'pattern_before': r'\n#\s{0,5}\w',
-                    'pattern_after': r'(.{0,15}\[[^\)]*\([^)]*\).{0,20}\n){5}',
+                    'pattern_after': r'(.{0,15}\[[^\)]*\([^)]*\).{0,20}\n{0,3}){5}',
+                    'min_parse_lines': 15,
+                    'min_length': 2000,
                     'crawl_config': CrawlerRunConfig(
                         verbose=True,
                         # 等待2秒让JavaScript执行完成
@@ -80,7 +102,7 @@ def parse_newsnow_top(md_file_path: Path) -> list[dict[str, str]]:
                         # 或者直接在页面执行JS代码
                         js_code="""
                             // 等待重定向完成
-                            await new Promise(resolve => setTimeout(resolve, 3000));
+                            await new Promise(resolve => setTimeout(resolve, 5000));
 
                             // 如果页面有跳转逻辑，等待URL变化
                             let attempts = 0;
@@ -93,6 +115,26 @@ def parse_newsnow_top(md_file_path: Path) -> list[dict[str, str]]:
                 })
     
     return news_items
+
+
+def newsnow_latest_time_conversion(time_str: str, date_str: str = datetime.now(zoneinfo.ZoneInfo("US/Eastern")).strftime("%Y-%m-%d")) -> str:
+    # 确定日期：使用提供的日期或当前UTC日期
+    if date_str is None:
+        raise ValueError("日期字符串不能为空")
+    
+    try:
+        # 1. 解析UTC时间并添加时区信息
+        utc_time = datetime.strptime(f"{date_str} {time_str}", "%Y-%m-%d %H:%M")
+        utc_time = utc_time.replace(tzinfo=zoneinfo.ZoneInfo("UTC"))
+        
+        # 2. 转换为美国东部时间（自动处理EST/EDT夏令时）
+        eastern_time = utc_time.astimezone(zoneinfo.ZoneInfo("US/Eastern"))
+        
+        # 3. 返回格式化字符串
+        return eastern_time.strftime("%Y-%m-%d %H:%M")
+        
+    except ValueError as e:
+        raise ValueError(f"时间格式解析失败，请检查输入格式: {e}")
 
 def parse_newsnow_latest(md_file_path: Path) -> list[dict[str, str]]:
     """
@@ -123,10 +165,12 @@ def parse_newsnow_latest(md_file_path: Path) -> list[dict[str, str]]:
         
         if url_match and time_match:
             news_items.append({
-                'time': time_match.group(1),
+                'time': newsnow_latest_time_conversion(time_match.group(1)),
                 'url': url_match.group(0),
                 'pattern_before': r'\n#\s{0,5}\w',
-                'pattern_after': r'(.{0,5}\[[^\)]*\([^)]*\)\n){5}',
+                'pattern_after': r'(.{0,15}\[[^\)]*\([^)]*\).{0,20}\n{0,3}){5}',
+                'min_parse_lines': 15,
+                'min_length': 2000,
                 'crawl_config': CrawlerRunConfig(
                     verbose=True,
                     # 等待2秒让JavaScript执行完成
@@ -134,7 +178,7 @@ def parse_newsnow_latest(md_file_path: Path) -> list[dict[str, str]]:
                     # 或者直接在页面执行JS代码
                     js_code="""
                         // 等待重定向完成
-                        await new Promise(resolve => setTimeout(resolve, 3000));
+                        await new Promise(resolve => setTimeout(resolve, 5000));
 
                         // 如果页面有跳转逻辑，等待URL变化
                         let attempts = 0;
@@ -147,6 +191,46 @@ def parse_newsnow_latest(md_file_path: Path) -> list[dict[str, str]]:
             })
     
     return news_items
+
+
+def cryptonews_time_conversion(time_str: str, date_time_str: str = datetime.now(zoneinfo.ZoneInfo("US/Eastern")).strftime("%Y-%m-%d-%H-%M")) -> str:
+    '''
+    there are three types of time_str:
+    1. "X hours ago"
+    2. "X days ago"
+    3. "X weeks ago"
+    '''
+    try:
+        if 'hour' in time_str:
+            hours = int(re.search(r'\d+', time_str).group(0))
+            # Create datetime object with provided date or default to today
+            dt = datetime.strptime(date_time_str, "%Y-%m-%d-%H-%M")
+            # Subtract hours from datetime
+            dt -= timedelta(hours=hours)
+            # Return formatted datetime string
+            return dt.strftime("%Y-%m-%d %H:%M")
+        elif 'day' in time_str:
+            days = int(re.search(r'\d+', time_str).group(0))
+            # Create datetime object with provided date or default to today
+            dt = datetime.strptime(date_time_str, "%Y-%m-%d-%H-%M")
+            # Subtract days from datetime
+            dt -= timedelta(days=days)
+            # Return formatted datetime string
+            return dt.strftime("%Y-%m-%d %H:%M")
+        elif 'week' in time_str:
+            weeks = int(re.search(r'\d+', time_str).group(0))
+            # Create datetime object with provided date or default to today
+            dt = datetime.strptime(date_time_str, "%Y-%m-%d-%H-%M")
+            # Subtract weeks from datetime
+            dt -= timedelta(weeks=weeks)
+            # Return formatted datetime string
+            return dt.strftime("%Y-%m-%d %H:%M")
+        elif time_str=="Unknown":
+            return ""
+        else:
+            raise ValueError(f"Time format parsing failed: {time_str}")
+    except ValueError as e:
+        raise ValueError(f"Time format parsing failed: {e}")
 
 def parse_cryptonews_top(md_file_path: Path) -> list[dict[str, str]]:
     """Parse top Bitcoin stories from crypto.news markdown file"""
@@ -193,10 +277,12 @@ def parse_cryptonews_top(md_file_path: Path) -> list[dict[str, str]]:
                         break
                 
                 news_items.append({
-                    'time': time_str,
+                    'time': cryptonews_time_conversion(time_str),
                     'url': url,
-                    'pattern_before': '\n#',
+                    'pattern_before': r'\n#\s{0,5}\w',
                     'pattern_after': 'Read more',
+                    'min_parse_lines': 0,
+                    'min_length': 0,
                     'crawl_config': CrawlerRunConfig(
                         verbose=True,
                         wait_for="body"  # 等待body元素出现
@@ -260,10 +346,12 @@ def parse_cryptonews_latest(md_file_path: Path) -> list[dict[str, str]]:
                 # Avoid duplicates
                 if not any(item['url'] == url for item in news_items):
                     news_items.append({
-                        'time': time_str,
+                        'time': cryptonews_time_conversion(time_str),
                         'url': url,
-                        'pattern_before': '\n#',
+                        'pattern_before': r'\n#\s{0,5}\w',
                         'pattern_after': 'Read more',
+                        'min_parse_lines': 0,
+                        'min_length': 0,
                         'crawl_config': CrawlerRunConfig(
                             verbose=True,
                             wait_for="body"  # 等待body元素出现
@@ -277,6 +365,16 @@ def parse_cryptonews_latest(md_file_path: Path) -> list[dict[str, str]]:
     #     print(f"{idx}. [{item['time']}] {item['url']}")
     
     return news_items
+
+
+def bitcoin99_latest_time_conversion(date_str: str) -> str:
+    try:
+        # Parse the date string (%B = full month name, %d = day, %Y = year)
+        dt = datetime.strptime(date_str, "%B %d, %Y")
+        # Format to YYYY-MM-DD
+        return dt.strftime("%Y-%m-%d")
+    except ValueError as e:
+        raise ValueError(f"Invalid date format. Expected 'Month DD, YYYY'. Error: {e}")
 
 def parse_99bitcoins_latest(md_file_path: Path) -> list[dict[str, str]]:
     """Parse latest Bitcoin news from 99bitcoins_news.md - all items are in one line"""
@@ -305,8 +403,13 @@ def parse_99bitcoins_latest(md_file_path: Path) -> list[dict[str, str]]:
     # Find all matches in the entire section at once
     for date, url in item_pattern.findall(news_section):
         news_items.append({
-            'time': date,
+            'time': bitcoin99_latest_time_conversion(date),
             'url': url,
+            'pattern_before': r'\n#\s{0,5}\w',
+            'pattern_after': r'Why you can trust 99Bitcoins',
+            'min_parse_lines': 15,
+            'min_length': 2000,
+            'pattern_before': '\n#\s{0,4}',
             'crawl_config': CrawlerRunConfig(
                 verbose=True,
                 wait_for="body"  # 等待body元素出现
@@ -329,6 +432,30 @@ def parse_99bitcoins_latest(md_file_path: Path) -> list[dict[str, str]]:
     
     return unique_items
 
+
+def theblock_latest_time_conversion(time_str: str, target_tz: str = "US/Eastern") -> str:
+    # 提取时区缩写（EST/EDT）
+    tz_match = re.search(r'(EST|EDT)$', time_str)
+    tz_abbr = tz_match.group(1) if tz_match else ''
+    
+    # 移除时区部分，只保留日期时间
+    main_part = time_str.rsplit(' ', 1)[0] if tz_abbr else time_str
+    
+    # 解析日期时间 (格式: "Nov 21, 2025, 5:13AM")
+    dt = datetime.strptime(main_part, "%b %d, %Y, %I:%M%p")
+    
+    # 如果存在时区信息，先将其设置为美国东部时间
+    # US/Eastern 会自动处理EST/EDT夏令时
+    if tz_abbr:
+        dt = dt.replace(tzinfo=zoneinfo.ZoneInfo("US/Eastern"))
+    
+    # 如果指定了目标时区，进行转换
+    if target_tz:
+        dt = dt.astimezone(zoneinfo.ZoneInfo(target_tz))
+    
+    # 格式化为 24小时制
+    return dt.strftime("%Y-%m-%d %H:%M")
+
 def parse_theblock_latest(md_file_path: Path) -> list[dict[str, str]]:
     """
     Parse the latest crypto news from The Block markdown file.
@@ -342,7 +469,7 @@ def parse_theblock_latest(md_file_path: Path) -> list[dict[str, str]]:
     latest_section = extract_between(
         full_content, 
         r'# Latest Crypto News', 
-        r'\n  \* Prev'  # End at pagination
+        r'Prev'  # End at pagination
     )
     if not latest_section:
         print("No latest news section found")
@@ -372,8 +499,12 @@ def parse_theblock_latest(md_file_path: Path) -> list[dict[str, str]]:
                         break
                 
                 news_items.append({
-                    'time': date_str,
+                    'time': theblock_latest_time_conversion(date_str),
                     'url': url,
+                    'pattern_before': r'\n#\s{0,5}\w',
+                    'pattern_after': r'\n\s*\n\s*Disclaimer',
+                    'min_parse_lines': 0,
+                    'min_length': 0,
                     'crawl_config': CrawlerRunConfig(
                         verbose=True,
                         wait_for="body"  # 等待body元素出现
@@ -384,8 +515,10 @@ def parse_theblock_latest(md_file_path: Path) -> list[dict[str, str]]:
     return news_items
 
 # Execute both functions
-# if __name__ == "__main__":
-#     top_stories = parse_cryptonews_top(Path('logs') / 'news' / 'crypto_news.md')
-#     latest_news = parse_cryptonews_latest(Path('logs') / 'news' / 'crypto_news.md')
-#     parse_99bitcoins_latest(Path('logs') / 'news' / '99bitcoins_news.md')
+if __name__ == "__main__":
+    print(newsnow_latest_time_conversion("13:52"))
+    # print current eastern time
+    print(datetime.now(zoneinfo.ZoneInfo("US/Eastern")).strftime("%Y-%m-%d %H:%M:%S"))
     
+    
+

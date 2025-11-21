@@ -35,224 +35,225 @@ Search
 Search  Search  Close search
 ![btc](https://crypto.news/images/icons/bitcoin.svg)
 Bitcoin (BTC) 
-$91,716.00
+$84,157.00
 [Bitcoin price ](https://crypto.news/price/bitcoin/)
 ![eth](https://crypto.news/images/icons/ethereum.svg)
 Ethereum (ETH) 
-$3,017.99
+$2,756.94
 [Ethereum price ](https://crypto.news/price/ethereum/)
 ![bnb](https://crypto.news/images/icons/binancecoin.svg)
 BNB (BNB) 
-$900.53
+$824.43
 [BNB price ](https://crypto.news/price/bnb/)
 ![sol](https://crypto.news/images/icons/solana.svg)
 Solana (SOL) 
-$141.56
+$127.68
 [Solana price ](https://crypto.news/price/solana/)
 ![xrp](https://crypto.news/images/icons/ripple.svg)
 XRP (XRP) 
-$2.12
+$1.93
 [XRP price ](https://crypto.news/price/xrp/)
 ![shib](https://crypto.news/images/icons/shiba-inu.svg)
 Shiba Inu (SHIB) 
-$0.0000087
+$0.0000079
 [Shiba Inu price ](https://crypto.news/price/shiba-inu/)
 ![pepe](https://crypto.news/images/icons/pepe.svg)
 Pepe (PEPE) 
-$0.0000049
+$0.0000043
 [Pepe price ](https://crypto.news/price/pepe/)
 ![bonk](https://coin-images.coingecko.com/coins/images/28600/large/bonk.jpg?1696527587)
 Bonk (BONK) 
-$0.0000103
+$0.0000090
 [Bonk price ](https://crypto.news/price/bonk/)
 ![wif](https://coin-images.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428)
 dogwifhat (WIF) 
-$0.41
+$0.34
 [dogwifhat price ](https://crypto.news/price/dogwifhat/)
 ![popcat](https://coin-images.coingecko.com/coins/images/33760/large/image.jpg?1702964227)
 Popcat (POPCAT) 
-$0.11
+$0.0936
 [Popcat price ](https://crypto.news/price/popcat/)
 ![btc](https://crypto.news/images/icons/bitcoin.svg)
 Bitcoin (BTC) 
-$91,716.00
+$84,157.00
 [Bitcoin price ](https://crypto.news/price/bitcoin/)
 ![eth](https://crypto.news/images/icons/ethereum.svg)
 Ethereum (ETH) 
-$3,017.99
+$2,756.94
 [Ethereum price ](https://crypto.news/price/ethereum/)
 ![bnb](https://crypto.news/images/icons/binancecoin.svg)
 BNB (BNB) 
-$900.53
+$824.43
 [BNB price ](https://crypto.news/price/bnb/)
 ![sol](https://crypto.news/images/icons/solana.svg)
 Solana (SOL) 
-$141.56
+$127.68
 [Solana price ](https://crypto.news/price/solana/)
 ![xrp](https://crypto.news/images/icons/ripple.svg)
 XRP (XRP) 
-$2.12
+$1.93
 [XRP price ](https://crypto.news/price/xrp/)
 ![shib](https://crypto.news/images/icons/shiba-inu.svg)
 Shiba Inu (SHIB) 
-$0.0000087
+$0.0000079
 [Shiba Inu price ](https://crypto.news/price/shiba-inu/)
 ![pepe](https://crypto.news/images/icons/pepe.svg)
 Pepe (PEPE) 
-$0.0000049
+$0.0000043
 [Pepe price ](https://crypto.news/price/pepe/)
 ![bonk](https://coin-images.coingecko.com/coins/images/28600/large/bonk.jpg?1696527587)
 Bonk (BONK) 
-$0.0000103
+$0.0000090
 [Bonk price ](https://crypto.news/price/bonk/)
 ![wif](https://coin-images.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428)
 dogwifhat (WIF) 
-$0.41
+$0.34
 [dogwifhat price ](https://crypto.news/price/dogwifhat/)
 ![popcat](https://coin-images.coingecko.com/coins/images/33760/large/image.jpg?1702964227)
 Popcat (POPCAT) 
-$0.11
+$0.0936
 [Popcat price ](https://crypto.news/price/popcat/)
 #  Bitcoin News 
 Stay ahead with the latest Bitcoin news, from market movements to adoption trends. Whether it’s price surges, institutional interest, or regulatory shifts, we cover everything shaping the future of the world’s first and largest cryptocurrency
 Show More Show Less
 ##  Top Bitcoin Stories 
-![Cecilia Hsueh, the CSO of MEXC, who recently spoke about the crypto market](https://media.crypto.news/2025/10/crypto-news-Cecilia-Hsueh-MEXCs-Chief-Strategy-Officer-option01-880x523.webp)
+![Michael Salyor, CEO of Strategy, which faces risks from major indices as JPMorgan warns](https://crypto.news/app/uploads/2025/01/crypto-news-MicroStrategy-option04-880x523.webp)
 Top Stories 
-###  [ Crypto markets retreat, but don’t call it a collapse: MEXC’s Cecilia Hsueh ](https://crypto.news/crypto-markets-retreat-but-dont-call-it-a-collapse-mexcs-cecilia-hsueh/)
-19 hours ago 
-![bitcoin price](https://media.crypto.news/2025/11/crypto-news-Bitcoin-backed-option01-880x523.webp)
-Top Stories 
-###  [ Will Bitcoin price rebound as the Fear and Greed Index crashes? ](https://crypto.news/will-bitcoin-price-rebound-fear-greed-index-crashes/)
-2 days ago 
-![Bitcoin price below energy cost models as MVRV z-score sinks - 1](https://media.crypto.news/2025/11/generated-1763450364500-880x495.webp)
-Top Stories 
-###  [ Bitcoin price below energy cost models as MVRV z-score sinks ](https://crypto.news/bitcoin-price-below-energy-cost-models-as-mvrv-z-score-sinks/)
-2 days ago 
+###  [ Strategy risks bloodbath if major index ditches it: JPMorgan ](https://crypto.news/strategy-risks-bloodbath-if-major-index-ditches-it-jpmorgan/)
+15 hours ago 
 ![Chart showing crypto prices today](https://crypto.news/app/uploads/2025/07/crypto-news-tokenized-stocks-option10-880x523.webp)
 Top Stories 
 ###  [ Crypto prices today (Nov. 19): BTC reclaims $90K, ETH, XRP, SOL trade near key supports ](https://crypto.news/crypto-prices-today-november-19-btc-eth-xrp-sol-2025/)
-1 day ago 
-![Bitcoin slides as ICP, HYPE, and ASTER buck the trend - 2](https://media.crypto.news/2025/11/crypto-news-Bitcoin-tresuary-option04-880x523.webp)
-Top Stories 
-###  [ Bitcoin slides as ICP, HYPE, and ASTER buck the trend ](https://crypto.news/bitcoin-slides-as-icp-hype-and-aster-buck-the-trend/)
 2 days ago 
+![Cecilia Hsueh, the CSO of MEXC, who recently spoke about the crypto market](https://media.crypto.news/2025/10/crypto-news-Cecilia-Hsueh-MEXCs-Chief-Strategy-Officer-option01-880x523.webp)
+Top Stories 
+###  [ Crypto markets retreat, but don’t call it a collapse: MEXC’s Cecilia Hsueh ](https://crypto.news/crypto-markets-retreat-but-dont-call-it-a-collapse-mexcs-cecilia-hsueh/)
+2 days ago 
+![Michael Saylor: Strategy can endure deep Bitcoin drop](https://crypto.news/app/uploads/2025/01/crypto-news-Michael-Saylor-MicroStrategy-option06-880x523.webp)
+Top Stories 
+###  [ Michael Saylor says Strategy can handle 80-90% Bitcoin drop amid falling volatility ](https://crypto.news/michael-saylor-strategy-bitcoin-drop-volatility-2025/)
+2 days ago 
+![Bitcoin in Japan, symbolizing Metaplanet's acquisitions. ](https://crypto.news/app/uploads/2024/08/crypto-news-Japan-bitcoin-option01-880x523.webp)
+Top Stories 
+###  [ Japan’s Metaplanet to raise about $135m to buy Bitcoin ](https://crypto.news/japans-metaplanet-to-raise-about-135m-to-buy-bitcoin/)
+18 hours ago 
 ![btc](https://crypto.news/images/icons/bitcoin.svg) [ Bitcoin ](https://crypto.news/price/bitcoin/)
-$91,780.00
-24h Volume  $86,004,190,969
-Market Cap  $1,828,788,690,234
-24h Low/High  $88,540.00 / $92,944.00
-24h  0.26%
-7d  -11.5% 
+$84,145.00
+24h Volume  $144,054,908,970
+Market Cap  $1,678,436,070,362
+24h Low/High  $81,051.00 / $91,765.00
+24h  -8.16%
+7d  -14.82% 
 ##  Latest Bitcoin News 
+![Is Michael Saylor’s Strategy in danger as Bitcoin collapses?](https://crypto.news/app/uploads/2025/07/crypto-news-Michael-Saylor-should-not-burn-his-Bitcoin-option02-880x523.webp)
+Markets
+[ Read more - Is Michael Saylor’s Strategy in danger as Bitcoin collapses? ](https://crypto.news/is-michael-saylors-strategy-in-danger-as-bitcoin-collapses/)
+[ Is Michael Saylor’s Strategy in danger as Bitcoin collapses? ](https://crypto.news/is-michael-saylors-strategy-in-danger-as-bitcoin-collapses/)
+Shares of Michael Saylor-led Strategy could be at risk as Bitcoin price has fallen to multi-month lows below $100,000. Michael Saylor-led Strategy is the largest Bitcoin-holding public company in the world, with a massive Bitcoin war chest of 649,870 BTC… 
+![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
+2 hours ago
+![BlackRock and Grayscale lead major ETF withdrawals topping $900m - 1](https://media.crypto.news/2025/11/crypto-news-Bitcoin-tresuary-option05-880x523.webp)
+Markets
+[ Read more - BlackRock and Grayscale lead major ETF withdrawals topping $900m ](https://crypto.news/blackrock-and-grayscale-lead-major-etf-withdrawals-topping-900m/)
+[ BlackRock and Grayscale lead major ETF withdrawals topping $900m ](https://crypto.news/blackrock-and-grayscale-lead-major-etf-withdrawals-topping-900m/)
+Bitcoin ETFs see $903M net outflow, price nosedives as Blackrock and Grayscale see major outflows. U.S. Bitcoin spot exchange-traded funds recorded net outflows of $903 million on November 20, marking the second-largest outflows since the funds’ inception in January 2024,… 
+![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/) ![Ethereum](https://crypto.news/images/icons/ethereum.svg) ETH  [ Ethereum ](https://crypto.news/price/ethereum/)
+4 hours ago
+![Bitcoin price plunges to $85k in long squeeze fallout, ETF outflows.](https://media.crypto.news/2025/11/crypto-news-Bitcoin-tresuary-option04-880x523.webp)
+Markets
+[ Read more - Bitcoin price plunges to $85k in long squeeze fallout, ETF outflows, is the worst coming? ](https://crypto.news/bitcoin-price-plunges-to-85k-in-long-squeeze-fallout-etf-outflows-is-the-worst-coming/)
+[ Bitcoin price plunges to $85k in long squeeze fallout, ETF outflows, is the worst coming? ](https://crypto.news/bitcoin-price-plunges-to-85k-in-long-squeeze-fallout-etf-outflows-is-the-worst-coming/)
+Bitcoin price tanked to a 7-month low of nearly $85,000 on Friday as investors holding long positions were caught off guard by a sharp selloff, while outflows from its spot ETFs continued to add pressure. According to data from crypto.news,… 
+![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
+5 hours ago
+![Michael Salyor, CEO of Strategy, which faces risks from major indices as JPMorgan warns](https://crypto.news/app/uploads/2025/01/crypto-news-MicroStrategy-option04-880x523.webp)
+News
+[ Read more - Strategy risks bloodbath if major index ditches it: JPMorgan ](https://crypto.news/strategy-risks-bloodbath-if-major-index-ditches-it-jpmorgan/)
+[ Strategy risks bloodbath if major index ditches it: JPMorgan ](https://crypto.news/strategy-risks-bloodbath-if-major-index-ditches-it-jpmorgan/)
+Analysts at JPMorgan warn that more than 20% of Strategy's market cap sits in passive indices, which are now threatening to delist it. 
+![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
+16 hours ago
+![broken Bitcoin, symbolizing crpyto market crash](https://crypto.news/app/uploads/2025/02/crypto-news-price-action-crashes-option06-880x523.webp)
+News
+[ Read more - Crypto market crash: Why are BTC, ETH, SOL, XRP and DOGE sliding today? ](https://crypto.news/crypto-market-crash-why-is-btc-eth-sol-xrp-doge-slide/)
+[ Crypto market crash: Why are BTC, ETH, SOL, XRP and DOGE sliding today? ](https://crypto.news/crypto-market-crash-why-is-btc-eth-sol-xrp-doge-slide/)
+Investors are scaling back on risk assets amid declining hopes that the Federal Reserve will cut rates before the end of the year. 
+![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/) ![Ethereum](https://crypto.news/images/icons/ethereum.svg) ETH  [ Ethereum ](https://crypto.news/price/ethereum/) ![Solana](https://crypto.news/images/icons/solana.svg) SOL  [ Solana ](https://crypto.news/price/solana/)
+18 hours ago
+![Bitcoin in Japan, symbolizing Metaplanet's acquisitions. ](https://crypto.news/app/uploads/2024/08/crypto-news-Japan-bitcoin-option01-880x523.webp)
+News
+[ Read more - Japan’s Metaplanet to raise about $135m to buy Bitcoin ](https://crypto.news/japans-metaplanet-to-raise-about-135m-to-buy-bitcoin/)
+[ Japan’s Metaplanet to raise about $135m to buy Bitcoin ](https://crypto.news/japans-metaplanet-to-raise-about-135m-to-buy-bitcoin/)
+Tokyo-listed Metaplanet plans to issue Class B perpetual shares worth $135 million to expand its Bitcoin reserves. 
+![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
+19 hours ago
+![Bitcoin block, symbolizing ETF demand ](https://media.crypto.news/2025/11/crypto-news-Bitcoin-backed-option02-880x523.webp)
+News
+[ Read more - Bitcoin faces pressure as ETF demand cools: Analysts ](https://crypto.news/bitcoin-faces-pressure-as-etf-demand-cools-analysts/)
+[ Bitcoin faces pressure as ETF demand cools: Analysts ](https://crypto.news/bitcoin-faces-pressure-as-etf-demand-cools-analysts/)
+Bitcoin’s recent slide below $90,000 has shaken a key narrative, that of growing institutional demand, crypto market analysts explain. 
+![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
+23 hours ago
 ![Maple Finance barred from launching syrupBTC after Core Foundation injunction.](https://media.crypto.news/2025/11/crypto-news-Bitcoin-tresuary-option05-880x523.webp)
 News
 [ Read more - Maple Finance barred from launching syrupBTC after Core Foundation injunction ](https://crypto.news/maple-finance-barred-from-launching-syrupbtc-after-core-foundation-injunction/)
 [ Maple Finance barred from launching syrupBTC after Core Foundation injunction ](https://crypto.news/maple-finance-barred-from-launching-syrupbtc-after-core-foundation-injunction/)
 Maple Finance is facing an injunction from Core Foundation, the organization behind the Bitcoin-secured Core blockchain, over an alleged breach of confidentiality and exclusivity agreements tied to their Bitcoin yield partnership. “The Grand Court of the Cayman Islands has granted… 
 ![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
-5 hours ago
+1 day ago
 ![Chart showing Bitcoin price consolidating](https://crypto.news/app/uploads/2025/07/crypto-news-tokenized-stocks-option03-880x523.webp)
 Markets
 [ Read more - Bitcoin price fights to reclaim $95K resistance as implied volatility spikes double digits ](https://crypto.news/bitcoin-price-reclaim-resistance-volatility-2025/)
 [ Bitcoin price fights to reclaim $95K resistance as implied volatility spikes double digits ](https://crypto.news/bitcoin-price-reclaim-resistance-volatility-2025/)
 Bitcoin price is trying to push its way back above the $95,000 mark after sinking to a local low near $89,000, a drop that sparked a sharp rise in implied volatility. BTC was trading around $92,858 at press time, up… 
 ![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
-6 hours ago
+1 day ago
 ![Abu Dhabi, which invested millions in Bitcoin ETF](https://crypto.news/app/uploads/2024/11/crypto-news-The-UAE-bets-big-on-web3-gaming-option04-880x523.webp)
 News
 [ Read more - Bitcoin ETFs bleed cash as Abu Dhabi doubles down ](https://crypto.news/abu-dhabi-fund-tripled-ibitcoin-stake-before-downturn/)
 [ Bitcoin ETFs bleed cash as Abu Dhabi doubles down ](https://crypto.news/abu-dhabi-fund-tripled-ibitcoin-stake-before-downturn/)
 BlackRock’s iShares Bitcoin Trust (IBIT) recorded $523 million in net outflows on Tuesday, its most significant single-day withdrawal since it launched. 
 ![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
-17 hours ago
+1 day ago
 ![Cecilia Hsueh, the CSO of MEXC, who recently spoke about the crypto market](https://media.crypto.news/2025/10/crypto-news-Cecilia-Hsueh-MEXCs-Chief-Strategy-Officer-option01-880x523.webp)
 Interviews
 [ Read more - Crypto markets retreat, but don’t call it a collapse: MEXC’s Cecilia Hsueh ](https://crypto.news/crypto-markets-retreat-but-dont-call-it-a-collapse-mexcs-cecilia-hsueh/)
 [ Crypto markets retreat, but don’t call it a collapse: MEXC’s Cecilia Hsueh ](https://crypto.news/crypto-markets-retreat-but-dont-call-it-a-collapse-mexcs-cecilia-hsueh/)
 The latest market crash saw a sharp pullback. October saw a record $2 billion in liquidations, but only Binance saw serious issues The crash has no parallels to the 2022 Luna, FTX collapse, says Cecilia Hsueh. 
 ![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
-21 hours ago
+1 day ago
 ![Michael Saylor: Strategy can endure deep Bitcoin drop](https://crypto.news/app/uploads/2025/01/crypto-news-Michael-Saylor-MicroStrategy-option06-880x523.webp)
 News
 [ Read more - Michael Saylor says Strategy can handle 80-90% Bitcoin drop amid falling volatility ](https://crypto.news/michael-saylor-strategy-bitcoin-drop-volatility-2025/)
 [ Michael Saylor says Strategy can handle 80-90% Bitcoin drop amid falling volatility ](https://crypto.news/michael-saylor-strategy-bitcoin-drop-volatility-2025/)
 Michael Saylor said Bitcoin’s falling volatility shows a maturing market and insists Strategy is built to withstand significant drawdown without breaking stride. Michael Saylor noted that the recent pullback in Bitcoin does not change his outlook and that Strategy can… 
 ![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
-1 day ago
+2 days ago
 ![New Hampshire launches first Bitcoin-backed municipal bond in the United States.](https://crypto.news/app/uploads/2025/03/crypto-news-The-United-States-is-unfocused-on-CBDCs-option04-880x523.webp)
 News
 [ Read more - New Hampshire launches first Bitcoin-backed municipal bond in the United States ](https://crypto.news/new-hampshire-launches-first-bitcoin-backed-municipal-bond-in-the-united-states/)
 [ New Hampshire launches first Bitcoin-backed municipal bond in the United States ](https://crypto.news/new-hampshire-launches-first-bitcoin-backed-municipal-bond-in-the-united-states/)
 New Hampshire has once again notched the first position among other U.S. states after launching a Bitcoin-backed municipal bond. New Hampshire’s business financing agency, the Business Finance Authority, signed the approval on Nov 17 to authorize a “first of its… 
-1 day ago
+2 days ago
 ![Chart showing crypto prices today](https://crypto.news/app/uploads/2025/07/crypto-news-tokenized-stocks-option10-880x523.webp)
 Markets
 [ Read more - Crypto prices today (Nov. 19): BTC reclaims $90K, ETH, XRP, SOL trade near key supports ](https://crypto.news/crypto-prices-today-november-19-btc-eth-xrp-sol-2025/)
 [ Crypto prices today (Nov. 19): BTC reclaims $90K, ETH, XRP, SOL trade near key supports ](https://crypto.news/crypto-prices-today-november-19-btc-eth-xrp-sol-2025/)
 Crypto prices today are still on the edge even as Bitcoin made a notable comeback, climbing back above the $90,000 mark after dipping below that level earlier in the session. Trading at $91,798 at press time, Bitcoin had dropped as… 
 ![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/) ![Ethereum](https://crypto.news/images/icons/ethereum.svg) ETH  [ Ethereum ](https://crypto.news/price/ethereum/) ![XRP](https://crypto.news/images/icons/ripple.svg) XRP  [ XRP ](https://crypto.news/price/xrp/)
-1 day ago
+2 days ago
 ![bitcoin price](https://media.crypto.news/2025/11/crypto-news-Bitcoin-backed-option01-880x523.webp)
 Markets
 [ Read more - Will Bitcoin price rebound as the Fear and Greed Index crashes? ](https://crypto.news/will-bitcoin-price-rebound-fear-greed-index-crashes/)
 [ Will Bitcoin price rebound as the Fear and Greed Index crashes? ](https://crypto.news/will-bitcoin-price-rebound-fear-greed-index-crashes/)
 Bitcoin price stabilized today, Nov. 18, as investors bought the dip and waited for the upcoming FOMC minutes and Nvidia earnings. 
 ![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
-1 day ago
+2 days ago
 ![hive digital stock](https://crypto.news/app/uploads/2024/02/crypto-news-Bitcoin-mining-equipment-option01-880x525.webp)
 Markets
 [ Read more - Hive Digital’s 53% crash mirrors Bitcoin’s retreat, but analysts predict a bullish bounce to $10 ](https://crypto.news/hive-digital-stock-wall-street-analysts-predict/)
 [ Hive Digital’s 53% crash mirrors Bitcoin’s retreat, but analysts predict a bullish bounce to $10 ](https://crypto.news/hive-digital-stock-wall-street-analysts-predict/)
 Hive Digital stock jumped by over 500% from its April low to its October high; it pivoted to AI and HPC industries. But its Bitcoin mining revenue is still strong. 
-![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
-1 day ago
-![Bitcoin slides as ICP, HYPE, and ASTER buck the trend - 3](https://media.crypto.news/2025/11/crypto-news-Bitcoin-tresuary-option04-880x523.webp)
-News
-[ Read more - Bitcoin slides as ICP, HYPE, and ASTER buck the trend ](https://crypto.news/bitcoin-slides-as-icp-hype-and-aster-buck-the-trend/)
-[ Bitcoin slides as ICP, HYPE, and ASTER buck the trend ](https://crypto.news/bitcoin-slides-as-icp-hype-and-aster-buck-the-trend/)
-ICP, HYPE, ASTER Gain as Bitcoin Falls Below $90,000 Bitcoin experienced continued price declines over several days, dropping below $90,000 in recent trading, according to market data. Most altcoins followed the downward trend, though several tokens posted gains against the… 
-![Internet Computer](https://coin-images.coingecko.com/coins/images/14495/large/Internet_Computer_logo.png?1696514180) ICP  [ Internet Computer ](https://crypto.news/price/internet-computer/) ![Hyperliquid](https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300) HYPE  [ Hyperliquid ](https://crypto.news/price/hyperliquid/) ![Aster](https://coin-images.coingecko.com/coins/images/69040/large/_ASTER.png?1757326782) ASTER  [ Aster ](https://crypto.news/price/aster/)
-2 days ago
-![Bitcoin price chart showing death cross signal](https://media.crypto.news/2025/11/crypto-news-Bitcoin-backed-oil-option03-880x523.webp)
-News
-[ Read more - Bitcoin enters death cross while market tests key levels ](https://crypto.news/bitcoin-death-cross-analysts-split-on-outlook/)
-[ Bitcoin enters death cross while market tests key levels ](https://crypto.news/bitcoin-death-cross-analysts-split-on-outlook/)
-Can Bitcoin regain momentum after forming a death cross, or will the setup echo the extended weakness seen in 2022? Bitcoin has entered a technical pattern commonly known as a death cross, as its short-term moving average has fallen below… 
-![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
-2 days ago
-![Crypto prices today: BTC breaks $90K floor, ETH, SOL, XRP bleed as liquidations top $1B.](https://media.crypto.news/2025/11/crypto-news-Centralized-technology-is-shrinking-the-internet-880x523.webp)
-Markets
-[ Read more - Crypto prices today (18 Nov): BTC breaks $90K floor, ETH, SOL, XRP bleed as liquidations top $1B ](https://crypto.news/crypto-prices-today-18-nov-btc-breaks-90k-floor-eth-sol-xrp-bleed-as-liquidations-top-1b/)
-[ Crypto prices today (18 Nov): BTC breaks $90K floor, ETH, SOL, XRP bleed as liquidations top $1B ](https://crypto.news/crypto-prices-today-18-nov-btc-breaks-90k-floor-eth-sol-xrp-bleed-as-liquidations-top-1b/)
-Crypto prices continued their downtrend on Tuesday, Nov. 18, as Bitcoin dipped to a nearly 7-month low and altcoins bled, with crypto liquidations topping $1 billion. Bitcoin (BTC), the world’s largest crypto asset, sharply fell from $95,903 to an intraday… 
-![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/) ![Ethereum](https://crypto.news/images/icons/ethereum.svg) ETH  [ Ethereum ](https://crypto.news/price/ethereum/) ![XRP](https://crypto.news/images/icons/ripple.svg) XRP  [ XRP ](https://crypto.news/price/xrp/)
-2 days ago
-![Bitcoin price below energy cost models as MVRV z-score sinks - 4](https://media.crypto.news/2025/11/generated-1763450364500-880x495.webp)
-News
-[ Read more - Bitcoin price below energy cost models as MVRV z-score sinks ](https://crypto.news/bitcoin-price-below-energy-cost-models-as-mvrv-z-score-sinks/)
-[ Bitcoin price below energy cost models as MVRV z-score sinks ](https://crypto.news/bitcoin-price-below-energy-cost-models-as-mvrv-z-score-sinks/)
-Bitcoin trades far below energy cost models; mining pressures rise. Bitcoin (BTC) price is trading approximately 70% below its estimated fair value based on mining energy cost models, according to analysts tracking production economics in the cryptocurrency sector. Energy-driven valuation… 
-![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
-2 days ago
-![Bitcoin decline deepens, dousing 2025 gains: What's next? - 5](https://crypto.news/app/uploads/2023/09/crypto-news-trading-down01-880x525.webp)
-News
-[ Read more - Bitcoin decline deepens, dousing 2025 gains: What’s next? ](https://crypto.news/bitcoin-decline-deepens-dousing-2025-gains-whats-next/)
-[ Bitcoin decline deepens, dousing 2025 gains: What’s next? ](https://crypto.news/bitcoin-decline-deepens-dousing-2025-gains-whats-next/)
-Bitcoin dropped below $90K, intensifying a month-long decline that has wiped out its 2025 gains and shaken confidence across the sector. 
-![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
-2 days ago
-![Crypto meltdown: $1.1 trillion wiped out in 41 days as leverage fuels frenzy - 6](https://crypto.news/app/uploads/2024/01/crypto-news-broken-blank-coins-red-trading-chart-is-down-background-neon-colors02-880x525.webp)
-News
-[ Read more - Crypto meltdown: $1.1 trillion wiped out in 41 days as leverage fuels frenzy ](https://crypto.news/crypto-meltdown-trillion-41-days-leverage-fuels-frenzy/)
-[ Crypto meltdown: $1.1 trillion wiped out in 41 days as leverage fuels frenzy ](https://crypto.news/crypto-meltdown-trillion-41-days-leverage-fuels-frenzy/)
-Bitcoin has plummeted 25% in just one month. Crypto is still Trump's top priority, as Americans juggle inflation, student loans, and health care premiums. 
-2 days ago
-![Will MSTR stock recover as Saylor’s Strategy buys 8,178 Bitcoins? - 7](https://crypto.news/app/uploads/2025/01/crypto-news-Michael-Saylor-MicroStrategy-option05-880x523.webp)
-Markets
-[ Read more - Will MSTR stock recover as Saylor’s Strategy buys 8,178 Bitcoins? ](https://crypto.news/will-mstr-stock-recover-as-saylors-strategy-8178-btc/)
-[ Will MSTR stock recover as Saylor’s Strategy buys 8,178 Bitcoins? ](https://crypto.news/will-mstr-stock-recover-as-saylors-strategy-8178-btc/)
-Strategy, which trades under the ticker symbol MSTR, saw its stock price gap lower on Monday as Bitcoin continued its strong downward trend and as the company continued its buying spree. Strategy stock dropped to $192, its lowest level since… 
 ![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
 2 days ago
 ![](https://media.crypto.news/2025/11/crypto-news-Bitcoin-tresuary-option05-880x523.webp)
@@ -344,28 +345,28 @@ Markets
 [ Bitcoin price crashes below $100K, what’s triggering the sell-off today? ](https://crypto.news/bitcoin-price-crashes-below-100k-whats-triggering-the-sell-off-today/)
 Bitcoin price has fallen off the $100,000 threshold after fighting to stay above the mark. At the moment, it is trading at $99,926. What triggered the sell-off? The price of Bitcoin has officially dipped below the psychological $100,000 mark, indicating... 
 ![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
-1 week ago
+Nov 7, 2025 at 08:42 PM GMT+8
 ![Bitcoin ETFs exit 6-day outflow streak as BTC defends $100k support.](https://media.crypto.news/2025/11/crypto-news-Bitcoin-backed-option03-880x523.webp)
 Markets
 [ Read more - Bitcoin ETFs exit 6-day outflow streak as BTC defends $100k support ](https://crypto.news/bitcoin-etfs-exit-6-day-outflow-streak-as-btc-defends-100k-support/)
 [ Bitcoin ETFs exit 6-day outflow streak as BTC defends $100k support ](https://crypto.news/bitcoin-etfs-exit-6-day-outflow-streak-as-btc-defends-100k-support/)
 U.S. spot Bitcoin ETFs resumed inflows on Nov. 7 as institutional demand for the bellwether asset returned, after BTC bulls successfully defended the $100K support level. According to data from SoSoValue, the 12 spot Bitcoin exchange-traded funds recorded $240 million... 
 ![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
-1 week ago
+Nov 7, 2025 at 07:04 PM GMT+8
 ![Chart showing Bitcoin price on the decline](https://crypto.news/app/uploads/2025/07/crypto-news-tokenized-stocks-option04-880x523.webp)
 Markets
 [ Read more - Bitcoin price eyes possible retest of $91K–$97K range as MVRV hints at buyer fatigue ](https://crypto.news/bitcoin-price-drop-mvrv-btc-buyer-fatigue-2025/)
 [ Bitcoin price eyes possible retest of $91K–$97K range as MVRV hints at buyer fatigue ](https://crypto.news/bitcoin-price-drop-mvrv-btc-buyer-fatigue-2025/)
 Bitcoin price is cooling after its October peak, and the market is now watching whether buyers will defend the key $91,000–$97,000 support zone. Bitcoin is trading near $102,292, down 1.3% over the past day. The market has softened over the... 
 ![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
-1 week ago
+Nov 7, 2025 at 02:12 PM GMT+8
 ![A Portrait Image Of Ark Invest CEO Cathie Wood ](https://crypto.news/app/uploads/2023/12/crypto-news-Cathie-Wood-option01-880x525.webp)
 News
 [ Read more - Cathie Wood cuts bullish Bitcoin forecast by $300k: Here’s why ](https://crypto.news/cathie-wood-bullish-bitcoin-forecast-300k-heres-why/)
 [ Cathie Wood cuts bullish Bitcoin forecast by $300k: Here’s why ](https://crypto.news/cathie-wood-bullish-bitcoin-forecast-300k-heres-why/)
 Cathie Wood, the chief executive officer of Ark Invest, has cut her bullish forecast for Bitcoin for 2030, from a price target of $1.5 million down to $1.2 million. 
 ![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
-1 week ago
+Nov 7, 2025 at 02:23 AM GMT+8
 Show More
 Best crypto platforms 
 Nov 2025 
@@ -377,63 +378,63 @@ Nov 2025
 
 
 Deep Dives 
+![In crypto, success isn’t built by avoiding mistakes but by learning from them fast—resilience and adaptation beat perfection every time, argues Sergey Khusnetdinov](https://crypto.news/app/uploads/2025/07/crypto-news-Airdrops-are-still-success-makers-option04-880x523.webp)
+Opinion
+[ Read more - The missing language of mistakes in crypto discourse | Opinion ](https://crypto.news/the-missing-language-of-mistakes-in-crypto-discourse/)
+[ The missing language of mistakes in crypto discourse | Opinion ](https://crypto.news/the-missing-language-of-mistakes-in-crypto-discourse/)
+![Ethereum](https://crypto.news/images/icons/ethereum.svg) ETH  [ Ethereum ](https://crypto.news/price/ethereum/)
+1 hour ago
 ![DeFi will truly earn institutional flow once users hold one portfolio view and one source of truth, while intents route to the best venue, automatically.](https://crypto.news/app/uploads/2024/07/crypto-news-A-tough-climb-Neobanks-can-democratize-access-to-defi-products-option02-880x523.webp)
 Opinion
 [ Read more - Abstraction layers are the upgrade DeFi needs | Opinion ](https://crypto.news/abstraction-layers-are-the-upgrade-defi-needs-opinion/)
 [ Abstraction layers are the upgrade DeFi needs | Opinion ](https://crypto.news/abstraction-layers-are-the-upgrade-defi-needs-opinion/)
-2 hours ago
+1 day ago
 ![Big eye looking at the city, symbolizing Zcash privacy token ](https://crypto.news/app/uploads/2024/10/crypto-news-The-rise-of-privacy-coins-We-only-care-when-privacy-is-at-risk-option01-880x523.webp)
 Interviews
 [ Read more - What’s behind Zcash’s sudden price spike? Ran Neuner explains ](https://crypto.news/zcash-sudden-price-spike-ran-neuner-explains/)
 [ What’s behind Zcash’s sudden price spike? Ran Neuner explains ](https://crypto.news/zcash-sudden-price-spike-ran-neuner-explains/)
 ![Zcash](https://coin-images.coingecko.com/coins/images/486/large/circle-zcash-color.png?1696501740) ZEC  [ Zcash ](https://crypto.news/price/zcash/) ![Monero](https://coin-images.coingecko.com/coins/images/69/large/monero_logo.png?1696501460) XMR  [ Monero ](https://crypto.news/price/monero/) ![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
-14 hours ago
+1 day ago
 ![Cecilia Hsueh, the CSO of MEXC, who recently spoke about the crypto market](https://media.crypto.news/2025/10/crypto-news-Cecilia-Hsueh-MEXCs-Chief-Strategy-Officer-option01-880x523.webp)
 Interviews
 [ Read more - Crypto markets retreat, but don’t call it a collapse: MEXC’s Cecilia Hsueh ](https://crypto.news/crypto-markets-retreat-but-dont-call-it-a-collapse-mexcs-cecilia-hsueh/)
 [ Crypto markets retreat, but don’t call it a collapse: MEXC’s Cecilia Hsueh ](https://crypto.news/crypto-markets-retreat-but-dont-call-it-a-collapse-mexcs-cecilia-hsueh/)
 ![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
-21 hours ago
+1 day ago
 ![Since the demand of customers is valid, asset managers may have no choice but to bank on crypto and crypto native solutions](https://media.crypto.news/2025/11/crypto-news-AI-blockchain-option03-880x523.webp)
 Opinion
 [ Read more - There is an antidote to your wealth manager’s crypto FOMO | Opinion ](https://crypto.news/there-is-antidote-to-your-wealth-managers-crypto-fomo/)
 [ There is an antidote to your wealth manager’s crypto FOMO | Opinion ](https://crypto.news/there-is-antidote-to-your-wealth-managers-crypto-fomo/)
 ![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/) ![Ethereum](https://crypto.news/images/icons/ethereum.svg) ETH  [ Ethereum ](https://crypto.news/price/ethereum/)
-1 day ago
+2 days ago
 ![The world has woken up to the dangers of relying on centralized infrastructure, and the answer is the decentralized web.](https://crypto.news/app/uploads/2024/12/crypto-news-Should-web3-devs-be-building-tribes-not-just-tools-option02-880x523.webp)
 Opinion
 [ Read more - The AWS outage is proof that a decentralized web isn’t just desirable — it’s essential | Opinion ](https://crypto.news/a-decentralized-web-isnt-just-desirable-its-essential/)
 [ The AWS outage is proof that a decentralized web isn’t just desirable — it’s essential | Opinion ](https://crypto.news/a-decentralized-web-isnt-just-desirable-its-essential/)
 ![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/)
-2 days ago
+3 days ago
 ![Once artificial intelligence makes blockchain data accessible and interpretable, crypto analytics will begin acting on their insights with more sophisticated results](https://media.crypto.news/2025/11/crypto-news-Financial-infrastructure-requires-rethinking-blockchain-architecture-option02-880x523.webp)
 Opinion
 [ Read more - Crypto analytics need to catch up and beat TradFi standards | Opinion ](https://crypto.news/crypto-analytics-need-catch-up-beat-tradfi-standards/)
 [ Crypto analytics need to catch up and beat TradFi standards | Opinion ](https://crypto.news/crypto-analytics-need-catch-up-beat-tradfi-standards/)
 ![Ethereum](https://crypto.news/images/icons/ethereum.svg) ETH  [ Ethereum ](https://crypto.news/price/ethereum/)
-2 days ago
+4 days ago
 ![Once institutions demand blockchain rails that route across multiple networks by default, interoperability becomes the infrastructure itself](https://media.crypto.news/2025/11/crypto-news-Enterprises-dont-need-another-blockchain-880x523.webp)
 Opinion
 [ Read more - Enterprises don’t need another blockchain, they need one that speaks every language | Opinion ](https://crypto.news/enterprises-need-blockchain-that-speaks-every-language/)
 [ Enterprises don’t need another blockchain, they need one that speaks every language | Opinion ](https://crypto.news/enterprises-need-blockchain-that-speaks-every-language/)
-4 days ago
+5 days ago
 ![Saylor Bitcoin, DOJ convicts North Korea](https://media.crypto.news/2025/11/crypto-news-Bitcoin-tresuary-option04-880x523.webp)
 Recap
 [ Read more - Saylor denies Bitcoin sale rumors, DOJ convicts North Korean scheme helpers, BitMine names new CEO | Weekly Recap ](https://crypto.news/saylor-denies-bitcoin-sale-north-korea-scheme-recap/)
 [ Saylor denies Bitcoin sale rumors, DOJ convicts North Korean scheme helpers, BitMine names new CEO | Weekly Recap ](https://crypto.news/saylor-denies-bitcoin-sale-north-korea-scheme-recap/)
 ![Bitcoin](https://crypto.news/images/icons/bitcoin.svg) BTC  [ Bitcoin ](https://crypto.news/price/bitcoin/) ![Ethereum](https://crypto.news/images/icons/ethereum.svg) ETH  [ Ethereum ](https://crypto.news/price/ethereum/) ![BNB](https://crypto.news/images/icons/binancecoin.svg) BNB  [ BNB ](https://crypto.news/price/bnb/)
-4 days ago
+5 days ago
 ![Prediction markets now price what we believe. That’s a structural shift in how capital and information interact.](https://media.crypto.news/2025/11/crypto-news-Tokenizing-belief-Prediction-markets-880x523.webp)
 Opinion
 [ Read more - Tokenizing belief: Prediction markets are turning probability into the next asset class | Opinion ](https://crypto.news/prediction-markets-turn-probability-next-asset-class/)
 [ Tokenizing belief: Prediction markets are turning probability into the next asset class | Opinion ](https://crypto.news/prediction-markets-turn-probability-next-asset-class/)
-5 days ago
-![Martin Masser, Head of Growth at the TON Foundation, who spoke about its integration with Telegram. ](https://media.crypto.news/2025/11/crypto-news-Martin-Masser-Head-of-Growth-at-TON-Foundation-option02-880x523.webp)
-News
-[ Read more - Interview | How TON plans to bring blockchain to a billion Telegram users ](https://crypto.news/ton-plans-bring-blockchain-to-billion-telegram-users/)
-[ Interview | How TON plans to bring blockchain to a billion Telegram users ](https://crypto.news/ton-plans-bring-blockchain-to-billion-telegram-users/)
-![Toncoin](https://coin-images.coingecko.com/coins/images/17980/large/photo_2024-09-10_17.09.00.jpeg?1725963446) TON  [ Toncoin ](https://crypto.news/price/toncoin/)
-5 days ago
+6 days ago
 Sign up for crypto news and market insights 
 Get crypto market analysis and curated news delivered right to your inbox every week. 
 Email  Subscribe 
